@@ -1,21 +1,21 @@
 
-# San Andreas Unity
+# Unity Theft Auto
 
 <br>
 
 <div align="center">
-    <img src="Media/logo_512px.png" width="320" height="320">
-    <br>
-    <a href="https://discord.gg/ju2qDtM"> <img 
-src="https://img.shields.io/discord/479096180601782274.svg"></a>
-    &nbsp;
-    <a href="https://fb.me/UnityTheftAuto"> 
-<img src="Media/facebook.png" width="50" height="30"></a>
-    &nbsp;
-    <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> 
-<img 
-src="Media/youtube.png" 
-width="30" height="21"> </a>
+
+<img src="Media/logo_512px.png" width="320" height="320">
+
+<br>
+<a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a>
+
+&nbsp; 
+<a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> 
+
+&nbsp; 
+<a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a>
+
 </div>
 
 <br>
@@ -27,6 +27,9 @@ This won't be a complete re-implementation of the game, but we're hoping
 to build something similar to [Multi Theft Auto](http://www.mtasa.com/) 
 with assets streamed from an existing installation of San Andreas.
 
+## How to request access
+
+Please, to request acces to the [main repo](https://gitlab.com/uta-gi/uta-pns) send a mail to <a href="mailto:unitytheftauto@gmail.com">unitytheftauto@gmail.com</a> or write a message to @z3nth10n#0775 on Discord or a message to [@z3nth10n on Telegram](https://t.me/z3nth10n).
 
 ## Setup Instructions
 
