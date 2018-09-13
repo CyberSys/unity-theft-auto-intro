@@ -45,7 +45,7 @@ utilities, and among them, there is a window which shows all controls.
 ## TODO List
 
 Here is an extensive list of [what should be 
-implemented](/Docs/TODO.md).
+implemented](https://gitlab.com/uta-gi/uta-pns/issues).
 
 Can help us to develop this ? In that case, join us on discord so we can 
 discuss about it.
