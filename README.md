@@ -36,7 +36,6 @@ When running for the first time, the game will ask you for path to GTA
 installation, and will store that path in config.user.json. If you ever 
 need to change the path, you can just edit this file.
 
-
 ## In-game controls
 
 Press Escape while in game to open pause menu. You'll see there a lot of 
