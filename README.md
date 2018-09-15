@@ -9,7 +9,7 @@
 
 <br>
 
-<a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a> &nbsp; <a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> &nbsp; <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a>
+<a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a> <a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a> <a href="https://gitlab.com/uta-gi/uta-pns"> <img src="Media/gitlab.png" alt=""> </a>
 
 </div>
 
@@ -20,7 +20,7 @@ Andreas](http://www.rockstargames.com/sanandreas/) to Unity!
 
 This won't be a complete re-implementation of the game, but we're hoping 
 to build something similar to [Multi Theft Auto](http://www.mtasa.com/) 
-with assets streamed from an existing installation of San Andreas.
+with assets streamed from an existing installation (it must be a legal copy) of San Andreas.
 
 ## How to request access
 
