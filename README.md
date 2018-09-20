@@ -101,7 +101,7 @@ Any user that use this with a pirated copy is out of our responsability.
 
 ## Screenshots
 
-<center>
+<div align="center">
 ![screen shot 2017-04-01 at 00 03 
 25](https://cloud.githubusercontent.com/assets/557828/24571348/d964f098-1670-11e7-8759-0160dbf5bcb5.png)
 
@@ -109,34 +109,34 @@ Any user that use this with a pirated copy is out of our responsability.
 13](https://cloud.githubusercontent.com/assets/557828/24571349/d96b7c24-1670-11e7-997d-ae15913481f8.png)
 
 ![](https://i.imgur.com/0OAOYXK.png)
-</center>
+</div>
 
 ## Videos
 
 ### First networking test
 
-<center>
+<div align="center">
     [![First networking test](http://files.facepunch.com/ziks/2015/April/12/vidthumb1.png)](http://files.facepunch.com/ziks/2015/April/12/2015-04-12-2011-02.mp4)
-</center>
+</div>
 
 ### Basic car physics
 
-<center>
+<div align="center">
     [![Basic car physics](http://files.facepunch.com/ziks/2015/April/12/vidthumb2.png)](http://files.facepunch.com/layla/2015/April/06/2015-04-06_04-32-12.mp4)
-</center>
+</div>
 
 ### 9 minutes of video showing Alpha Release
 
-<center>
+<div align="center">
     <a href="https://www.youtube.com/watch?v=4DpdcawFjG4">
         <img src="http://img.youtube.com/vi/4DpdcawFjG4/0.jpg" alt="" width="512" height="288">
     </a>
-</center>
+</div>
 
 ### Drone Flight simulation
 
-<center>
+<div align="center">
     <a href="https://www.youtube.com/watch?v=xUAy7KBpkOs">
         <img src="http://img.youtube.com/vi/xUAy7KBpkOs/maxresdefault.jpg" alt="" width="512" height="288">
     </a>
-</center>
+</div>
