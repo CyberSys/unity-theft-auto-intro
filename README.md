@@ -79,15 +79,31 @@ Test GTA San Andreas with an improved game engine, improved physics, improved te
 
 ### 𝐈𝐬 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐥𝐞𝐠𝐚𝐥?
 
-Yes, this project is legal. Despite what people believe this project is totally legal. [Rockstar Games EULA](https://www.rockstargames.com/eula) specifies the following:
+Following that [Rockstar Games EULA](https://www.rockstargames.com/eula) specifies:
 
 ```
 The Software is protected by U.S. copyright and trademark law and applicable laws and treaties throughout the world. The Software may not be copied, reproduced, altered, modified, or distributed in any manner or medium, in whole or in part, without prior written consent from Licensor.
 ```
 
-But, we aren't doing such things. You can think we are modifying the game, but we aren't modifying any file from the project, we are just reading it. Any modification done to the game is made inside Unity3D engine.
+We are not are modifying the game, because we are not modifying any file from the project, we are just reading it. Any modification done to the game is made inside Unity3D engine.
 
-To play / edit this project you need an original and legal copy of the game (or not, but [we strongly recommend it](https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/)) buy from any place allowed to do that.
+But we are reproducing its copyrighted contents. In this case, we can be C&D perfectly. 
+
+Despite this, there are some points to consider:
+
+- Rockstar Games main devs / lawyers has been permissive with all modifications done to the game (see SA-MP, MTA, CLEO Mods, TXD Workshop, SAAT, IMG Factory, Misterix Mod and a lot of tools / modifications that has been done to the project over time)
+
+- Even Hot Coffee mod that was a vanilla feature before its release has been allowed (although this mentioned vanilla feature brought problems to Rockstar games in early 2005)
+
+- The only thing that can bring problems to us are financial harms to Rockstar company, but we are not re-selling this project.
+
+- There are major concerns to care about (in Rockstar point of view) because it's now 14 years since it release and there are more recurring revenue products (GTA V for example).
+
+- We are happy supporting Rockstar in any aspect, we want to help them to make it's community great again (the San Andreas one) and, in the future, if we earn any financial profit we can share it with them.
+
+We are not distributing any file:
+
+- To play / edit this project you need an original and legal copy of the game (or not, but [we strongly recommend it](https://store.steampowered.com/app/12120/Grand_Theft_Auto_San_Andreas/)) buy from any place allowed to do that.
 
 Any user that use this with a pirated copy is out of our responsability.
 
