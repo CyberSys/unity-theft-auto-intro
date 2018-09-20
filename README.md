@@ -115,11 +115,19 @@ Any user that use this with a pirated copy is out of our responsability.
 
 ### First networking test
 
-[![First networking test](http://files.facepunch.com/ziks/2015/April/12/vidthumb1.png)](http://files.facepunch.com/ziks/2015/April/12/2015-04-12-2011-02.mp4){style="display: block; margin: 0 auto" }
+<div align="center">
+    <a href="https://streamable.com/fb8pz">
+        <img src="https://i.imgur.com/LF8z046.png" alt="2015-04-06_04-32-12" width="512" height="288">
+    </a>
+</div>
 
 ### Basic car physics
 
-[![Basic car physics](http://files.facepunch.com/ziks/2015/April/12/vidthumb2.png)](http://files.facepunch.com/layla/2015/April/06/2015-04-06_04-32-12.mp4){style="display: block; margin: 0 auto" }
+<div align="center">
+    <a href="https://streamable.com/yj6k0">
+        <img src="https://i.imgur.com/y1vjO2l.png" alt="2015-04-12-2011-02" width="512" height="288">
+    </a>
+</div>
 
 ### 9 minutes of video showing Alpha Release
 
