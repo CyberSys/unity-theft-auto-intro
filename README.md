@@ -5,11 +5,11 @@
 
 <div align="center">
 
-<img src="Media/logo_512px.png" width="320" height="320">
+    <img src="Media/logo_512px.png" width="320" height="320">
 
-<br>
+    <br>
 
-<a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a> <a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a> <a href="https://gitlab.com/uta-gi/uta-pns"> <img src="Media/gitlab.png" alt=""> </a>
+    <a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a> <a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a> <a href="https://gitlab.com/uta-gi/uta-pns"> <img src="Media/gitlab.png" alt=""> </a>
 
 </div>
 
@@ -102,28 +102,24 @@ Any user that use this with a pirated copy is out of our responsability.
 ## Screenshots
 
 <div align="center">
-![screen shot 2017-04-01 at 00 03 
-25](https://cloud.githubusercontent.com/assets/557828/24571348/d964f098-1670-11e7-8759-0160dbf5bcb5.png)
 
-![screen shot 2017-04-01 at 00 02 
-13](https://cloud.githubusercontent.com/assets/557828/24571349/d96b7c24-1670-11e7-997d-ae15913481f8.png)
+    <img src="https://cloud.githubusercontent.com/assets/557828/24571348/d964f098-1670-11e7-8759-0160dbf5bcb5.png" alt="screen shot 2017-04-01 at 00 03 25">
 
-![](https://i.imgur.com/0OAOYXK.png)
+    <img src="https://cloud.githubusercontent.com/assets/557828/24571349/d96b7c24-1670-11e7-997d-ae15913481f8.png" alt="screen shot 2017-04-01 at 00 02 13">
+
+    <img src="https://i.imgur.com/0OAOYXK.png" alt="UTA Militar">
+
 </div>
 
 ## Videos
 
 ### First networking test
 
-<div align="center">
-    [![First networking test](http://files.facepunch.com/ziks/2015/April/12/vidthumb1.png)](http://files.facepunch.com/ziks/2015/April/12/2015-04-12-2011-02.mp4)
-</div>
+[![First networking test](http://files.facepunch.com/ziks/2015/April/12/vidthumb1.png)](http://files.facepunch.com/ziks/2015/April/12/2015-04-12-2011-02.mp4){style="display: block; margin: 0 auto" }
 
 ### Basic car physics
 
-<div align="center">
-    [![Basic car physics](http://files.facepunch.com/ziks/2015/April/12/vidthumb2.png)](http://files.facepunch.com/layla/2015/April/06/2015-04-06_04-32-12.mp4)
-</div>
+[![Basic car physics](http://files.facepunch.com/ziks/2015/April/12/vidthumb2.png)](http://files.facepunch.com/layla/2015/April/06/2015-04-06_04-32-12.mp4){style="display: block; margin: 0 auto" }
 
 ### 9 minutes of video showing Alpha Release
 
