@@ -5,11 +5,11 @@
 
 <div align="center">
 
-    <img src="Media/logo_512px.png" width="320" height="320">
+<img src="Media/logo_512px.png" width="320" height="320">
 
-    <br>
+<br>
 
-    <a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a> <a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a> <a href="https://gitlab.com/uta-gi/uta-pns"> <img src="Media/gitlab.png" alt=""> </a>
+<a href="https://discord.gg/ju2qDtM"> <img src="https://img.shields.io/discord/479096180601782274.svg"></a> <a href="https://fb.me/UnityTheftAuto"> <img src="Media/facebook.png"></a> <a href="https://www.youtube.com/channel/UCLZpgPfUm5aNh-nFV-YzgRQ"> <img src="Media/youtube.png"> </a> <a href="https://gitlab.com/uta-gi/uta-pns"> <img src="Media/gitlab.png" alt=""> </a>
 
 </div>
 
