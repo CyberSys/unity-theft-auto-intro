@@ -79,7 +79,7 @@ Test GTA San Andreas with an improved game engine, improved physics, improved te
 
 ### 𝐈𝐬 𝐭𝐡𝐢𝐬 𝐩𝐫𝐨𝐣𝐞𝐜𝐭 𝐥𝐞𝐠𝐚𝐥?
 
-Following that [Rockstar Games EULA](https://www.rockstargames.com/eula) specifies:
+Following what [Rockstar Games EULA](https://www.rockstargames.com/eula) specifies:
 
 ```
 The Software is protected by U.S. copyright and trademark law and applicable laws and treaties throughout the world. The Software may not be copied, reproduced, altered, modified, or distributed in any manner or medium, in whole or in part, without prior written consent from Licensor.
